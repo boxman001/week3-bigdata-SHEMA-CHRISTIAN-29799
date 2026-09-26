@@ -1,0 +1,10 @@
+WEEK 3 BIG DATA ANALYTICS LAB REPORT
+=====================================
+Student count: 40
+Valid records: 37
+Bad records: 3
+Bad student IDs: AUCA008, AUCA020, AUCA032
+Average valid score: 78.7
+Top student: Bonaventure Nkurunziza
+Top score: 95
+Top student's grade: A
